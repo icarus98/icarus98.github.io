@@ -1,2 +1,4 @@
 # icarus98.github.io
-Exploring Github
+**Learning web-development**
+#
+*Day one*
